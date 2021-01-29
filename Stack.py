@@ -1,3 +1,4 @@
+# unused file. Reference for algorithm
 class Stack:
     def __init__(self):
         self.data = []

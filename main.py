@@ -1,8 +1,4 @@
 from OSN import *
-from QueueE import *
-import time
-from PriorityQueue import *
-from Dijkstra import *
 
 if __name__ == '__main__':
     osn = OSN()
